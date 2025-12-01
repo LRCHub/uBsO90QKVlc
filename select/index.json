@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "My sweet baby",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-01T19:25:10.633964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Oh_Me,_Oh_My_Sweet_Baby_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/02_Oh_Me,_Oh_My_Sweet_Baby_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Sweet Baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_My_Sweet_Baby_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My sweet baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_My_sweet_baby_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Sweet Baby",
+      "artist": "B.o.B",
+      "has_synced": false,
+      "path": "select/05_My_Sweet_Baby_B.o.B.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My, Sweet Baby",
+      "artist": "Diamond Rio",
+      "has_synced": false,
+      "path": "select/06_Oh_Me,_Oh_My,_Sweet_Baby_Diamond_Rio.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Sweet Baby (Live 1969)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/07_My_Sweet_Baby_(Live_1969)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Sweet Baby",
+      "artist": "Thieving Birds",
+      "has_synced": false,
+      "path": "select/08_My_Sweet_Baby_Thieving_Birds.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Sweet Baby",
+      "artist": "Paloma Faith",
+      "has_synced": true,
+      "path": "select/09_My_Sweet_Baby_Paloma_Faith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby",
+      "artist": "Diamond Rio Bd",
+      "has_synced": false,
+      "path": "select/10_Oh_Me,_Oh_My_Sweet_Baby_Diamond_Rio_Bd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Sweet Baby (Live 1969) (Album Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/11_My_Sweet_Baby_(Live_1969)_(Album_Version)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "04 My Sweet Baby",
+      "artist": "B.o.B",
+      "has_synced": false,
+      "path": "select/12_04_My_Sweet_Baby_B.o.B.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Sweet Baby",
+      "artist": "Fleetwood Mac (Peter Green)",
+      "has_synced": true,
+      "path": "select/13_My_Sweet_Baby_Fleetwood_Mac_(Peter_Green).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Sweet Baby",
+      "artist": "Melody Niche",
+      "has_synced": false,
+      "path": "select/14_My_Sweet_Baby_Melody_Niche.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My sweet baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_My_sweet_baby_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "My sweet baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_02_My_sweet_baby_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "My sweet baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_03_My_sweet_baby_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "My Sweet Baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_04_My_Sweet_Baby_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "My Sweet Baby",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_05_My_Sweet_Baby_ONE_OK_ROCK.txt"
+    }
+  ]
+}
