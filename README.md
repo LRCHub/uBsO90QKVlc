@@ -1,0 +1,41 @@
+# ONE OK ROCK – My sweet baby
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.67] My baby, sweet baby, oh
+[00:06.35] I see you smiling when I close my eyes
+[00:10.71] 'Cause I miss you, I need you right now
+[00:43.19] 「ただいま」もろくに言えなくてゴメンね
+[00:51.54] Never knew I'd make you feel lonely
+[01:01.85] 口癖の「疲れた」も僕は言い過ぎだね
+[01:11.21] 帰りを待つ方が辛いのに
+[01:22.13] And we're back to screaming
+[01:23.37] 些細なことでまた
+[01:26.00] Can't stop the rain
+[01:32.10] So 互いに譲らずに気がつけば
+[01:36.29] Together again
+[01:40.08] 'Cause only you can drive me crazy
+[01:44.57] My baby, sweet baby, oh
+[01:50.15] いつも素直に出来ない僕を
+[01:55.00] あなたは優しく yeah 包んでくれる唯一の人だよ
+[02:26.23] Do you believe in destiny
+[02:29.70] 'Cause I can't deny, baby you and I
+[02:35.15] なぜ僕らがここにいるのか?
+[02:46.65] 出会うべき二人が出会ったとしたら僕ら
+[02:54.72] どんな困難も越えれるね?
+[03:05.88] 都合よく考えて
+[03:08.10] また君を困らせて
+[03:15.85] そんなふうに今日もまた僕は君に甘え過ぎ
+[03:23.73] 'Cause only I can't drive you crazy!
+[03:28.45] My baby, sweet baby って これからも先 一生君に
+[03:38.47] 言いたい!! って僕は心からそう思うんだよ
+[03:47.59] なぁ baby, please tell me? Oh
+[03:53.81] 言葉じゃなくていいから
+[03:57.90] ただ隣りで微笑んでくれればそれだけでいいからさ!!
+[04:09.94] The world's in a hurry
+[04:13.78] 僕らの時間は止めておこう
+[04:19.61] There's nothing to worry
+[04:23.69] 時は僕らを連れ去れはしないよ
+[04:33.63] Oh, oh, my sweet baby
+```
